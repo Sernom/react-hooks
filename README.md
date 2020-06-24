@@ -1,3 +1,14 @@
+## React-Hooks Tutorial
+
+This project was made from the react-hooks tutorials taken on youtube from the channel [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)!
+
+See playlist [here](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A).
+
+Please support codevolution! [Patreon](https://www.patreon.com/codevolution/posts).
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
